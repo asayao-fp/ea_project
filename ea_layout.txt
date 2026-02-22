@@ -1,0 +1,8 @@
+ea_project/
+  README.md
+  src/
+    experts/
+      SafeH1_EA.mq5
+  presets/
+  docs/
+  .gitignore
