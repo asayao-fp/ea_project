@@ -1,0 +1,9 @@
+# OS/editor
+.DS_Store
+.vscode/
+.idea/
+
+# MT5 build artifacts (may vary by setup)
+*.ex5
+*.log
+*.tmp
